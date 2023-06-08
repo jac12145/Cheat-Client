@@ -1,5 +1,4 @@
 # Cheat_Client
-## Versions
-V1 V2
-## Releases[www.google.com]
+## Versions V1
+## Releases https://github.com/jac12145/Cheat_Client/releases
 
